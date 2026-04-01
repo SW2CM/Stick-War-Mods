@@ -1,11 +1,15 @@
 # TLDR:
 
-## Copyright & Warranty:
+## Mod Browser License
+The mod browser is open source and is licensed under the Apache 2 license.  
+The Stick War mods hosted here are not open source. They are subject to the terms and information in the rest of this file.
+
+## Copyright & Warranty Regarding Stick War Mods:
 Stick War and Stick Empires is made by JASON WHITHAM (CRAZYJAY), BROCK WHITE (BROCKEMON), WINSTON ZHANG, ELI PIILONEN (2DARRAY).
 All rights reserved to the original authors.
 There is NO WARRANTY whatsoever when it comes to mods hosted here.
 
-## Actual Terms:
+## Terms of Stick War Mods:
 1. You MAY mod Stick War 2, Stick War 1, and old versions of Stick Empires.
 2. You may NOT claim ownership of the Stick War series and code, in part or full.
 3. You may NOT claim ownership of any Stick War mod you have not created. This includes, but is not limited to:
