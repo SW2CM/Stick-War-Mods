@@ -3,7 +3,6 @@
 # fastpages.sh: pages.sh but no lime build.
 echo Generating page...
 git checkout gh-pages
-git rm --cached -r .
 git restore --source master mods/
 git restore --source master fusion.sh
 find ./ -type f -name "*.swf" -delete;
@@ -11,7 +10,7 @@ find ./ -type f -name "*.swf" -delete;
 git rm --cached fusion.sh
 mv index.json mods/
 echo Pushing...
-git add mods favicon.png index.html sw2cmbrowser.js
+git add mods
 git commit -m "Automatically generated from the master branch"
 git push
 git checkout master --force
