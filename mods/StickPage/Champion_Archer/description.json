@@ -1,0 +1,17 @@
+{
+	"name": "Champion Archer",
+	"url": "https://github.com/SW2CM/Stick-War-Mods/raw/refs/heads/master/mods/StickPage/Champion_Archer/championarchergame.swf",
+	"image": "https://sw2cm.github.io/stick-war-mods/mods/StickPage/Champion_Archer/title.png",
+	"description": "The game that gave birth to Stick War!\nFight a war as an archer. Get money, buy upgrades, lather, rinse, repeat.",
+	"developers": "Eli Piilonen (2DArray)",
+	"additionalCredits": "",
+	"releaseDate": "2006/08/27 (estimated)",
+	"latestUpdateDate": "",
+	"bugs": "",
+	"base": "N/A",
+	"version": "1.0",
+	"type": "Singleplayer",
+	"empire": "N/A",
+	"levels": "N/A",
+	"difficulty": "N/A"
+}
